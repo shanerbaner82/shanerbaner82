@@ -14,12 +14,12 @@
   <img src="https://hostedsitefiles.s3.amazonaws.com/github/thumb.png" align="left" width="200" style="border-radius:40px" />
 </a>
 
-<a href="https://youtu.be/-FihXtIilfM">
+<a href="https://youtu.be/66ipvcVaMCE">
   <img src="https://i9.ytimg.com/vi/5p0DwI5YfUo/mqdefault.jpg?v=64bf339d&sqp=COiUi6YG&rs=AOn4CLASDhwQ9np2YcjPy32ITkZzJy7sEQ" align="left" width="200" style="border-radius:40px" />
 </a>
 
-<a href="https://youtu.be/-FihXtIilfM">
-  <img src="https://hostedsitefiles.s3.amazonaws.com/github/thumb.png" align="left" width="200" style="border-radius:40px" />
+<a href="https://youtu.be/66ipvcVaMCE">
+  <img src="https://i9.ytimg.com/vi_webp/66ipvcVaMCE/mqdefault.webp?v=64bd8518&sqp=COiUi6YG&rs=AOn4CLAH9J12r3bhKi6hep32GhaohwVf8A" align="left" width="200" style="border-radius:40px" />
 </a>
 
 
