@@ -11,7 +11,7 @@
 
 <!-- YT LIST START -->
 <a href="https://www.youtube.com/watch?v=gdIU9nwiCzs">
-<img src="[https://i3.ytimg.com/vi/gdIU9nwiCzs/hqdefault.jpg](https://i9.ytimg.com/vi/-FihXtIilfM/mqdefault.jpg?v=64c159b2&sqp=CJCQi6YG&rs=AOn4CLBLBQ0nsV3ctnYl2kATwiQWcXjHMw)" align="left" width="200" style="border-radius:40px" />
+<img src="https://i9.ytimg.com/vi/-FihXtIilfM/mqdefault.jpg?v=64c159b2&sqp=CJCQi6YG&rs=AOn4CLBLBQ0nsV3ctnYl2kATwiQWcXjHMw" align="left" width="200" style="border-radius:40px" />
   
 </a>
 
