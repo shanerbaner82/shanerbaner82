@@ -10,9 +10,16 @@
 ### Latest Youtube Videos
 
 <!-- YT LIST START -->
-<a href="https://www.youtube.com/watch?v=gdIU9nwiCzs">
-<img src="https://hostedsitefiles.s3.amazonaws.com/github/thumb.png" align="left" width="200" style="border-radius:40px" />
-  
+<a href="https://youtu.be/-FihXtIilfM">
+  <img src="https://hostedsitefiles.s3.amazonaws.com/github/thumb.png" align="left" width="200" style="border-radius:40px" />
+</a>
+
+<a href="https://youtu.be/-FihXtIilfM">
+  <img src="https://hostedsitefiles.s3.amazonaws.com/github/thumb.png" align="left" width="200" style="border-radius:40px" />
+</a>
+
+<a href="https://youtu.be/-FihXtIilfM">
+  <img src="https://hostedsitefiles.s3.amazonaws.com/github/thumb.png" align="left" width="200" style="border-radius:40px" />
 </a>
 
 
