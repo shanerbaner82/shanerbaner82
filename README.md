@@ -32,6 +32,7 @@
 <p align="left">
   <a href="https://laravel.com"><img src="https://laravel.com/img/logotype.min.svg" alt="laravel" width="80" height="80"/> </a>
   <a href="https://laravel.livewire.com"><img src="https://laravel-livewire.com/img/twitter.png" alt="laravel" width="80" height="80"/> </a>
+  <a href="https://alpinejs.dev/"><img src="https://www.markusantonwolf.com/topics/alpine-js/alpinejs-logo.svg" alt="AlpineJS" width="80" height="80"/></a>
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="80" height="80"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80"/> </a> 
