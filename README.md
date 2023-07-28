@@ -31,7 +31,7 @@
 ### Languages and Tools:
 <p align="left">
     <a href="https://laravel.com">
-        <img src="https://laravel.com/img/logotype.min.svg" alt="laravel" width="80" height="80"/> 
+        <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="80" height="80"/> 
     </a>
     <a href="https://laravel.livewire.com">
         <img src="https://laravel-livewire.com/img/twitter.png" alt="laravel" width="80" height="80"/> 
