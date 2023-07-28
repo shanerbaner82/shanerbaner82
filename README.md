@@ -100,13 +100,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
             alt="redis" width="80" height="80"/> 
     </a> 
-    <a href="https://svelte.dev" target="_blank"> 
-        <img
-            src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="80"
-            height="80"/> 
-    </a> 
-
-    <a href="https://www.typescriptlang.org/" target="_blank"> 
+     <a href="https://www.typescriptlang.org/" target="_blank"> 
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="80" height="80"/> 
@@ -115,7 +109,6 @@
         <img
             src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="80" height="80"/> 
     </a> 
-
 </p>
 
 
