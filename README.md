@@ -39,6 +39,10 @@
     <a href="https://alpinejs.dev/">
         <img src="https://www.markusantonwolf.com/topics/alpine-js/alpinejs-logo.svg" alt="AlpineJS" width="80" height="80"/>
     </a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80"
+            height="80"/> 
+    </a> 
     <a href="https://vuejs.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
             alt="vuejs" width="80" height="80"/> </a>
@@ -101,10 +105,7 @@
             src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="80"
             height="80"/> 
     </a> 
-    <a href="https://tailwindcss.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80"
-            height="80"/> 
-    </a> 
+
     <a href="https://www.typescriptlang.org/" target="_blank"> 
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
