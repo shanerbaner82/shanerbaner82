@@ -7,9 +7,9 @@
 <span align="left"> <a href="https://twitter.com/ShaneDRosenthal" target="blank"><img src="https://img.shields.io/twitter/follow/shanedrosenthal?logo=twitter&style=for-the-badge" alt="shanedrosenthal" /></a> </span>
 </div>
 
-### Latest Youtube Videos
+<!-- ### Latest Youtube Videos
 
-<!-- YT LIST START -->
+
 <a href="https://youtu.be/-FihXtIilfM">
   <img src="https://hostedsitefiles.s3.amazonaws.com/github/thumb.png" align="left" width="200" style="border-radius:40px" />
 </a>
@@ -21,7 +21,7 @@
 <a href="https://youtu.be/66ipvcVaMCE">
   <img src="https://hostedsitefiles.s3.amazonaws.com/articles/nativephp/thumbs/YT-Thumb2.png" align="left" width="200" style="border-radius:40px" />
 </a>
-
+ -->
 
 
 <img width="100%" />
