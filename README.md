@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shane D Rosenthal</h1>
 <h3 align="center">A passionate full stack developer and YouTuber from South Carolina</h3>
 
-
+<!--
 <div align="left" inline>
-<!-- <span align="left"> <img src="https://komarev.com/ghpvc/?username=sarthaksavvy&label=Profile%20views&color=0e75b6&style=flat" alt="sarthaksavvy" /> </span> -->
+ <span align="left"> <img src="https://komarev.com/ghpvc/?username=sarthaksavvy&label=Profile%20views&color=0e75b6&style=flat" alt="sarthaksavvy" /> </span> 
 <span align="left"> <a href="https://twitter.com/ShaneDRosenthal" target="blank"><img src="https://img.shields.io/twitter/follow/shanedrosenthal?logo=twitter&style=for-the-badge" alt="shanedrosenthal" /></a> </span>
 </div>
 
-<!-- ### Latest Youtube Videos
+
+### Latest Youtube Videos
 
 
-<a href="https://youtu.be/-FihXtIilfM">
+<a href="https://youtu.be/-FihXtIilfM](https://youtu.be/xWdiIAy7crQ?si=sja0InAABPKbKjbt)">
   <img src="https://hostedsitefiles.s3.amazonaws.com/github/thumb.png" align="left" width="200" style="border-radius:40px" />
 </a>
 
@@ -21,8 +22,8 @@
 <a href="https://youtu.be/66ipvcVaMCE">
   <img src="https://hostedsitefiles.s3.amazonaws.com/articles/nativephp/thumbs/YT-Thumb2.png" align="left" width="200" style="border-radius:40px" />
 </a>
- -->
-
+ 
+-->
 
 <img width="100%" />
 <div style="width:100%;display:block;"></div>
