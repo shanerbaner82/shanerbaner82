@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shane D Rosenthal</h1>
 <h3 align="center">A passionate full stack developer and YouTuber from South Carolina</h3>
-<style>
- a{text-decoration: none;}
-</style>
+
 <!--
 <div align="left" inline>
  <span align="left"> <img src="https://komarev.com/ghpvc/?username=sarthaksavvy&label=Profile%20views&color=0e75b6&style=flat" alt="sarthaksavvy" /> </span> 
@@ -13,7 +11,7 @@
 ### Latest Youtube Videos
 
 
-<a href="https://youtu.be/-FihXtIilfM](https://youtu.be/xWdiIAy7crQ?si=sja0InAABPKbKjbt)">
+<a href="https://youtu.be/-FihXtIilfM](https://youtu.be/xWdiIAy7crQ?si=sja0InAABPKbKjbt)" style=text-decoration:none;>
   <img src="https://hostedsitefiles.s3.amazonaws.com/github/thumb.png" align="left" width="200" style="border-radius:40px" />
 </a>
 
