@@ -11,15 +11,15 @@
 ### Latest Youtube Videos
 
 
-<a href="https://youtu.be/-FihXtIilfM](https://youtu.be/xWdiIAy7crQ?si=sja0InAABPKbKjbt)" style=text-decoration:none;>
+<a href="https://youtu.be/-FihXtIilfM](https://youtu.be/xWdiIAy7crQ?si=sja0InAABPKbKjbt)" style="text-decoration:none;">
   <img src="https://hostedsitefiles.s3.amazonaws.com/github/thumb.png" align="left" width="200" style="border-radius:40px" />
 </a>
 
-<a href="https://youtu.be/5p0DwI5YfUo">
+<a href="https://youtu.be/5p0DwI5YfUo"  style="text-decoration:none;">
   <img src="https://hostedsitefiles.s3.amazonaws.com/articles/nativephp/thumbs/partvi.png" align="left" width="200" style="border-radius:40px" />
 </a>
 
-<a href="https://youtu.be/66ipvcVaMCE">
+<a href="https://youtu.be/66ipvcVaMCE"  style="text-decoration:none;">
   <img src="https://hostedsitefiles.s3.amazonaws.com/articles/nativephp/thumbs/YT-Thumb2.png" align="left" width="200" style="border-radius:40px" />
 </a>
  
@@ -31,16 +31,16 @@
 
 ### Languages and Tools:
 <p align="left">
-    <a href="https://laravel.com">
+    <a href="https://laravel.com"  style="text-decoration:none;">
         <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="80" height="80"/> 
     </a>
-    <a href="https://laravel.livewire.com">
+    <a href="https://laravel.livewire.com"  style="text-decoration:none;">
         <img src="https://laravel-livewire.com/img/twitter.png" alt="laravel" width="80" height="80"/> 
     </a>
-    <a href="https://alpinejs.dev/">
+    <a href="https://alpinejs.dev/"  style="text-decoration:none;">
         <img src="https://www.markusantonwolf.com/topics/alpine-js/alpinejs-logo.svg" alt="AlpineJS" width="80" height="80"/>
     </a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img
+    <a href="https://tailwindcss.com/" target="_blank"  style="text-decoration:none;"> <img
             src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80"
             height="80"/> 
     </a> 
