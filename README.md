@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shane D Rosenthal</h1>
 <h3 align="center">A passionate full stack developer and YouTuber from South Carolina</h3>
-
+<style>
+ a{text-decoration: none;}
+</style>
 <!--
 <div align="left" inline>
  <span align="left"> <img src="https://komarev.com/ghpvc/?username=sarthaksavvy&label=Profile%20views&color=0e75b6&style=flat" alt="sarthaksavvy" /> </span> 
